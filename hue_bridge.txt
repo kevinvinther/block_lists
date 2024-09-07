@@ -1,5 +1,5 @@
 # A block list of domains used by Philips Hue Bridges
-# Last updated 1/25/2020
+# Last updated 2024-09-07
 
 diagnostics.meethue.com
 diagnostics.eethue.com
@@ -14,3 +14,4 @@ dc1-elb-60-1305627412.eu-west-1.elb.amazonaws.com
 data.meethue.com
 mqtt-eu-01.iot.meethue.com
 ntp1.aliyun.com # Maybe false flag? Not sure why it contacts this
+provision.meethue.com
